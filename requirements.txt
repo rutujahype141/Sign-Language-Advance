@@ -1,0 +1,12 @@
+
+numpy
+pandas
+matplotlib
+opencv-python
+scikit-learn
+tensorflow>=2.13
+mediapipe
+pyyaml
+tqdm
+streamlit
+gradio
