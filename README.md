@@ -1,7 +1,5 @@
 
-# ASL Interpreter — Transfer Learning & Multimodal Features
-
-This repository provides an **end-to-end implementation** of the paper's methodology:
+# Advancing Sign Language Interpretation with Transfer Learning and Multimodal Features
 
 - Baseline CNN for sign language gesture recognition
 - Transfer learning using ResNet-50 and EfficientNet-B0
@@ -11,7 +9,6 @@ This repository provides an **end-to-end implementation** of the paper's methodo
 
 The repository includes:
 
-- A small **mini_sample** dataset (A–E) to run the pipeline quickly.
 - Scripts for training and evaluation.
 - Sample outputs (results.json, plots).
 
@@ -55,7 +52,5 @@ This serves a web interface where you can upload an image and see the probabilit
 To run a live webcam demo (requires a webcam):
 ```bash
 python scripts/webcam_demo.py
-```
-The script overlays the predicted ASL letter and confidence on the webcam feed in real time. Press ESC to exit.
 ```
 
