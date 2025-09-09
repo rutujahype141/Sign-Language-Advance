@@ -1,0 +1,26 @@
+{
+  "Baseline CNN": {
+    "accuracy": 0.95,
+    "macro_f1": 0.932,
+    "micro_f1": 0.95,
+    "kappa": 0.94
+  },
+  "ResNet50 (ft)": {
+    "accuracy": 0.98,
+    "macro_f1": 0.965,
+    "micro_f1": 0.98,
+    "kappa": 0.97
+  },
+  "EfficientNetB0 (ft)": {
+    "accuracy": 0.976,
+    "macro_f1": 0.961,
+    "micro_f1": 0.976,
+    "kappa": 0.96
+  },
+  "CNN + Landmarks (GRU)": {
+    "accuracy": 0.96,
+    "macro_f1": 0.943,
+    "micro_f1": 0.96,
+    "kappa": 0.95
+  }
+}
