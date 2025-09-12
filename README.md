@@ -54,3 +54,17 @@ To run a live webcam demo (requires a webcam):
 python scripts/webcam_demo.py
 ```
 
+### Citation 
+If you are using this work, please cite using below details :
+```
+@misc{shukla_gupta_2025_advancing_sign_language,
+  author       = {Shukla, Manish and Gupta, Harsh},
+  title        = {Advancing Sign Language Interpretation with Transfer Learning and Multimodal Features},
+  year         = {2025},
+  month        = sep,
+  note         = {Preprint (Version 1), Research Square},
+  doi          = {10.21203/rs.3.rs-7586144/v1},
+  url          = {https://doi.org/10.21203/rs.3.rs-7586144/v1}
+}
+```
+Shukla, M., & Gupta, H. (2025, September 12). Advancing Sign Language Interpretation with Transfer Learning and Multimodal Features (Version 1) [Preprint]. Research Square. https://doi.org/10.21203/rs.3.rs-7586144/v1
